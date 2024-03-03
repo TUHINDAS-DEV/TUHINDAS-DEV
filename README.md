@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Machine learning and Data Science and Python**
 
-- 📫 How to reach me **dast4141@gmail.com**
+- 📫 How to reach me **dast41416@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
