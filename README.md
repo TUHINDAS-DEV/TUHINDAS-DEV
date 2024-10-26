@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Tuhin Das</h1>
-<h3 align="center">A passionate AI developer,web developer from India</h3>
+<h3 align="center">A passionate ML/AI developer,web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuhindas&label=Profile%20views&color=0e75b6&style=flat" alt="tuhindas" /> </p>
 
-- 🌱 I’m currently learning **MCA**
+- 🌱 I’m completed **MCA**
 
-- 💬 Ask me about **Machine learning and Data Science and Python**
+- 💬 Ask me about **Machine learning and Data Science and Python **
 
 - 📫 How to reach me **dast41416@gmail.com**
 
